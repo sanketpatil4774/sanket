@@ -1,0 +1,10 @@
+Hello Everone!!
+My Name is Sanket Manik Patil
+I am From IT Department
+
+#git Info
+git is a Popular Version Control System
+It Was Created By Linus in 2005
+Git is used for Tracking the Code!!
+
+THANK YOU!!!
